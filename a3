@@ -47,7 +47,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/nghiavip201687-glitch
 end
 })
 Tab3:AddButton({
-	Name = "fix lag",
+	Name = "music",
 	Callback = function()
         repeat wait(5) until game:IsLoaded()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/nghiavip201687-glitch/music/refs/heads/main/music"))()
