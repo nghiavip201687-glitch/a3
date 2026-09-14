@@ -53,3 +53,11 @@ Tab3:AddButton({
 loadstring(game:HttpGet("https://raw.githubusercontent.com/nghiavip201687-glitch/music/refs/heads/main/music"))()
 end
 })
+Tab2:AddButton({
+	Name = "sena hub",
+	Callback = function()
+        repeat wait(5) until game:IsLoaded()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/senarblx/sena/refs/heads/main/loader'))()
+end
+})
+
