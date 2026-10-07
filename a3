@@ -1,4 +1,4 @@
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/vinh12eqweaws/zingmods/refs/heads/main/zingpro')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/nghiavip201687-glitch/tulam/refs/heads/main/tulam')))()
 
 local Window = OrionLib:MakeWindow({Name = "HMN hub", HidePremium = false, SaveConfig = true, ConfigFolder = "dxl_bf"})
 
